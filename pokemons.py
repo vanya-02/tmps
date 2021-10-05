@@ -6,7 +6,6 @@ class Pokemon(ABC):
     def catchphrase(self):
         pass
 
-
 # This is a singleton
 class Legendary(Pokemon):
     class __Legendary(Pokemon):
