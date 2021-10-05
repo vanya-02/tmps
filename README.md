@@ -12,4 +12,4 @@ Since this particular singleton implementation uses a inner private class to con
 
 
 ### Run Example
-![run.png](run.png)
+![run.PNG](run.PNG)
