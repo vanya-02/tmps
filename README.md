@@ -9,3 +9,7 @@ Implementation/Eplanation:
 Since this particular singleton implementation uses a inner private class to control the creation wrapped under the outer class its downside is that there is the additional need to wire its behavior to each both classes.
 
 2) Oject Pooling - used when creating an instance is costly, thus, "Epic" was implemented to use the resources from resource class and return them when needed.
+
+
+### Run Example
+![run.png](run.png)
